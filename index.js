@@ -11,8 +11,6 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 
-
-
  function johnLennonFacts(facts) {
 
    let newFacts = [];
@@ -24,8 +22,6 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return newFacts
 }
-
-
 
 
  function iLoveTheBeatles(num) {
